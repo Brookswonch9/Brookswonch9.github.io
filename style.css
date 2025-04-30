@@ -69,7 +69,7 @@ nav border-radius {
 }
  /* portfolio styles */
  .content h1 {
-    color: rgb(212, 117, 224);
+    color: rgb(255, 255, 255);
 }
 
 #portfolio {
@@ -78,7 +78,7 @@ nav border-radius {
 }
 
 #portfolio li {
-    background: #45e705;
+    background: #232722;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -90,5 +90,5 @@ nav border-radius {
 
 #portfolio a {
     text-decoration: none;
-    color: #363636;
+    color: #ffffff;
 }
